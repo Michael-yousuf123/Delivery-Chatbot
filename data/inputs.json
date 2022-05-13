@@ -6,12 +6,9 @@
         "Hi",
         "Hey",
         "How are you",
-        "Is anyone there?",
-        "Hello",
-        "Good day"
+        "Is anyone there?"
       ],
       "responses": [
-        "Hey :-)",
         "Hello, thanks for visiting",
         "Hi there, what can I do for you?",
         "Hi there, how can I help?"
