@@ -1,5 +1,5 @@
 {
-  "inputs": [
+  "intents": [
     {
       "tag": "greeting",
       "patterns": [
