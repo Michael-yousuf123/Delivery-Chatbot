@@ -19,7 +19,7 @@ class Response(MDLabel):
     halign = StringProperty
     font_name = "Roboto"
     font_size = 17
-
+    
 class ChatApp(MDApp):
 
     def build(self):
